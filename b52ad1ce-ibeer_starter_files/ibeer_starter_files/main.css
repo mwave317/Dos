@@ -223,6 +223,7 @@ article footer p{
     display: flex;
     background: #333;
     color: white;
+    padding: 25px;
     justify-content: center;
     /*
         TODO:
